@@ -2555,12 +2555,12 @@ a
 }
 .page8
 {
-	width: 100%;
-	background-color: black;
+    width: 100%;
+    background-color: black;
 }
 .pag8head
 {
-    width: 100%;
+    width: 90%;
     display: flex;
 }
 .pag8head1
