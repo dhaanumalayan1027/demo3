@@ -2555,17 +2555,18 @@ a
 }
 .page8
 {
-    width: 100%;
-    background-color: black;
+	width: 100%;
+	background-color: black;
 }
 .pag8head
 {
-    width: 90%;
-    display: flex;
+    	width: 90vw;
+    	display: flex;
+	margin: auto;
 }
 .pag8head1
 {
-	width: 50%;
+	width: 50vw;
 	display: flex;
 	justify-content: space-evenly;
 	padding-top: 25px;
@@ -2598,7 +2599,7 @@ a
 }
 .pag8head2
 {
-	width: 50%;
+	width: 50vw;
 	display: flex;
 	justify-content: space-evenly;
 	padding-top: 25px;
