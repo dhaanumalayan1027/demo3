@@ -2097,7 +2097,6 @@ a
 }
 #page6
 {
-	height: 60vh;
 	width: 100%;
 }
 .head4
@@ -2157,6 +2156,10 @@ a
 	.dash6
 	{
 		width: 98%;
+	}
+	.head4
+	{
+		padding-left: 5%;
 	}
 	.imgh6
 	{
