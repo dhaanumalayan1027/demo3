@@ -2101,7 +2101,7 @@ a
 }
 .head4
 {
-	padding-top: 30px;
+	padding-top: 50px;
 	padding-left: 2%;
 }
 .head4par1
@@ -2444,7 +2444,7 @@ a
 	.pag7head2
 	{
 		width: 80%;
-		margin-top: 5%;
+		margin: auto 0;
 	}
 }
 @media(max-width: 480px)
@@ -2561,7 +2561,7 @@ a
 {
 	width: 100%;
 	background-color: black;
-	padding-bottom: 15px;
+	padding-bottom: 30px;
 }
 .pag8head
 {
