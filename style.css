@@ -2561,17 +2561,16 @@ a
 .pag8head
 {
     width: 100%;
-	display: flex;
+    display: flex;
 }
 .pag8head1
 {
 	width: 50%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	padding-top: 25px;
 	color: white;
 	font-family: sans-serif;
-	border: 1px solid white;
 }
 .pag8the1 ul
 {
@@ -2601,11 +2600,10 @@ a
 {
 	width: 50%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	padding-top: 25px;
 	color: white;
 	font-family: sans-serif;
-	border: 1px solid white;
 }
 .pag8the3
 {
